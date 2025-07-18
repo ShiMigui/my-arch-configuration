@@ -1,0 +1,10 @@
+general {
+  colors = true
+  interval = 60
+}
+
+order += "time"
+
+time {
+  format = "%d/%m %H:%M"
+}
